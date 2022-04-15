@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gracias
-nav_excude: true
+nav_exclude: true
 ---
 
 ## ¡Gracias!
