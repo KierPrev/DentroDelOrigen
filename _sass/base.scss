@@ -19,12 +19,14 @@ html {
 
 body {
   font-family: $body-font-family;
-  font-size: 1.1em;
+  font-size: 1.15em;
   text-align: justify;
   text-justify: inter-character;
   line-height: $body-line-height;
   color: #212121;
   background-color: $body-background-color;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 ol,
