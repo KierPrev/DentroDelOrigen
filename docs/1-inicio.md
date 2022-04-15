@@ -11,7 +11,7 @@ Así como la tecnología crece a pasos agigantados, nuestro dominio sobre el amb
 
 *¿Realmente se puede evitar la entropía? A veces pienso que eso es tan irreal como los propios libros de ciencia-ficción.*
 
-
+----
 
 Ádam Levi.
 Extracto del ensayo “Sobre la relación de la tecnología moderna y el medio.”
