@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inicio
-nav_order: 2
+nav_order: 3
 ---
 
 ## Extracto del ensayo “Sobre la relación de la tecnología moderna y el medio.”
