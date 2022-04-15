@@ -3,7 +3,7 @@ layout: default
 title: Personajes
 nav_order: 3
 has_children: true
-permalink: /docs/ui-components
+permalink: /docs/personajes
 ---
 
 # UI Components
