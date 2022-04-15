@@ -23,4 +23,6 @@ Estudiante de Licenciatura en Física
 
 ----
 
-[➡️ Siguiente](/docs/2-notasmk365)
+<div id="html" markdown="0">
+[➡️ Siguiente](/docs/2-notasmk365.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+</div>
