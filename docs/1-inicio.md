@@ -20,3 +20,7 @@ Así como la tecnología crece a pasos agigantados, nuestro dominio sobre el amb
 **Ádam Levi.**
 
 Estudiante de Licenciatura en Física
+
+----
+
+[➡️ Siguiente](/docs/2-notasmk365)
