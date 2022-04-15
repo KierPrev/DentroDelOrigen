@@ -13,6 +13,9 @@ Así como la tecnología crece a pasos agigantados, nuestro dominio sobre el amb
 
 ----
 
-Ádam Levi.
+**Ádam Levi.**
+
+Estudiante de Licenciatura en Física
+
 Extracto del ensayo “Sobre la relación de la tecnología moderna y el medio.”
-12 de marzo de 2030. Estudiante de Licenciatura en Física
+12 de marzo de 2030. 
