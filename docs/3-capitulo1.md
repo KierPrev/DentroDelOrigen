@@ -23,11 +23,11 @@ Comenzamos a caminar lentamente por el pasillo a la vez que el fresco aire nos d
 Bajamos las escaleras y salimos a la calle. El portador más cercano estaba a dos cuadras. Todos asistíamos al mismo lugar; el colegio de Andra estaba en el mismo edificio que el nuestro, por lo que casi siempre viajamos juntos. Antes de que se inventara el nuevo sistema de transporte, tardábamos alrededor de una hora en viajar mediante autobús.
 Sobre la vereda había un poste publicitario, y la imagen mostraba el anuncio de un coche eléctrico auto-manejable.
 
->Tessal. Tecnologías para la humanidad del futuro.
->Modelo X’	(Volante opcional.)
+> *Tessal. Tecnologías para la humanidad del futuro.*
+> *Modelo X’	(Volante opcional.)*
 
->La comodidad de viajar como en un Portador.
->El destino en tus manos.
+> *La comodidad de viajar como en un Portador.*
+> *El destino en tus manos.*
 
 Lucas se quedó estáticamente mirando el anuncio y nos hizo varios comentarios al respecto del nuevo modelo de Tales. Solo faltaba recorrer un trecho para llegar al punto de portación.
 ―Andra, ¿Todavía sigues con el trabajo de termodinámica? Ya te dije que te puedo dar una mano si te hace falta ―comenté mirándola a los ojos. Conocía a la chica desde el año pasado, a partir del momento en que le saqué accidentalmente un moretón en una convención de arte y literatura; aunque sentía que nos conocíamos de toda la vida, era una hermana pequeña para mí. Se mudó al mismo lugar que nosotros porque yo le indiqué que había un espacio libre y ella estaba casualmente buscando uno. Su familia trabaja en los negocios y se mueven de una ciudad a otra muy seguido, por lo que decidieron que ella se quedara en Mércorin alquilando un lugar. Un punto a favor, diría yo.
@@ -44,11 +44,11 @@ Observé mientras Luna di Bucci desaparecía por la esquina, a la par que un sua
 Asentimos y seguimos caminando hasta llegar a la cápsula. Era de un color gris mate, con bandas rojas cruzándolo horizontalmente. Tenía puertas dobles automáticas y en la parte superior estaba escrito MR07, su número de serie dentro de la ciudad. Los portadores funcionan gracias a un sistema de tarjetas recargables, y prácticamente si te metes en uno puedes ir a cualquier parte del globo si tienes el dinero suficiente. Nuestras credenciales de estudiante solo nos permitían hacer viajes gratis a la universidad.
 Entramos a la máquina y nos colocamos en los asientos con seguro. A los costados de las paredes vi algunas de las usuales indicaciones para el viaje.
 
-> Siempre verifique su cinturón de seguridad.
+> *Siempre verifique su cinturón de seguridad.*
 
-> El viaje con mascotas solo está disponible en portadores con seguros especiales.
+> *El viaje con mascotas solo está disponible en portadores con seguros especiales.*
 
-> En caso de emergencia, podrá hacer un viaje al Centro de Bienestar más cercano.
+> *En caso de emergencia, podrá hacer un viaje al Centro de Bienestar más cercano.*
 
 Estaba por presionar el botón para iniciar el viaje, cuando por el umbral de la puerta entró alguien. Luna, otra vez; al parecer se había olvidado de algo en su facultad. Apartó la vista rápidamente de mí, y se sentó en el último asiento restante.―
 ―¿Vas a la universidad? ―le preguntó amistosamente Andra, dando una delicada sonrisa que derretiría hasta el tungsteno. Luna asintió, devolviéndole una sonrisa improvisada, pero sincera.
