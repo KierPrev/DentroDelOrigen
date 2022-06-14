@@ -15,6 +15,10 @@ Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan
 
 {: .fs-6 .fw-300 }
 
+---
+
+Novela de ciencia-ficción escrita por Kiernan Preve
+
 [Iniciar](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ---
 

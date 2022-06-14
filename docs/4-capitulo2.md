@@ -109,4 +109,3 @@ El joven pelirrojo me hizo una pregunta.
 Habremos tardado unos cuarenta minutos en encontrarnos con el pueblo. Era pequeño, aunque tenía la apariencia de una ciudad. Una baja muralla de piedra rodeaba todo el lugar. Me preguntaba si mis compañeros ya tenían las mismas sospechas que yo había tenido hace una hora.
 
 Había algo en aquel poblado que me resultaba familiar, aunque no podría decir qué. Fue una especie de Déjà visité supongo. Mi mente me decía que algo no estaba bien en lo que estábamos por hacer. El subconsciente siempre está más atento que nosotros mismos.
-{: .fw-500}
