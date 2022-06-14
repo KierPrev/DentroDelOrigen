@@ -113,7 +113,7 @@ El instrumentista guardó su laúd en una oscura funda marrón y volvió a habla
 
 ―Les agradezco a todos por sus aplausos. Ahora... ―expresó mirando hacia la abertura ubicada en el techo― Les contaré una de mis historias favoritas. La escuché hace tiempo cuando era niño, y desde entonces ha quedado por siempre en mis recuerdos... Es una historia acerca del Gran Árbol de la vida.
 
-―Nunca escuché esa, Véril, ¿Por qué no nosa la habías contado? ―indicó el jefe.
+―Nunca escuché esa, Vesto, ¿Por qué no nosa la habías contado? ―indicó el jefe.
 
 ―Oh... La guardaba para una ocasión especial...
 
