@@ -34,6 +34,8 @@ En ese momento Andra salió de su apartamento y cerró la puerta. Portaba una ca
 
 Comenzamos a caminar lentamente por el pasillo a la vez que el fresco aire nos daba en la cara. Una hoja amarilla se coló por la abertura, girando invariablemente hasta caer en uno de los rojizos azulejos. El comienzo del otoño cobraba sus primeras «víctimas».
 
+<img src="https://kierprev.github.io/DentroDelOrigen/assets/images/hoja.jpg" class="center" > 
+
 Bajamos las escaleras y salimos a la calle. El portador más cercano estaba a dos cuadras. Todos asistíamos al mismo lugar; el colegio de Andra estaba en el mismo edificio que el nuestro, por lo que casi siempre viajamos juntos. Antes de que se inventara el nuevo sistema de transporte, tardábamos alrededor de una hora en viajar mediante autobús.
 
 Sobre la vereda había un poste publicitario, y la imagen mostraba el anuncio de un coche eléctrico auto-manejable.
