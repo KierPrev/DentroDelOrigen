@@ -8,8 +8,7 @@ nav_order: 5
 <h2 style="text-align: center;"> Forasteros en lo desconocido </h2> <br>
 
 
-{: .fw-400}
-
+{: .fw-500}
 Cerré los ojos por un instante y los volví a abrir. No, no estoy soñando; el aroma a lavanda entra a la cámara traído por la suave brisa del viento. El suelo está cubierto de estas florecidas plantas, como una alfombra púrpura.
 
 ― ¿Así que esto es el cielo? ―expresó Andra con su fina y delicada voz.
