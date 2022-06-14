@@ -6,24 +6,24 @@ nav_order: 4
 
 # Notas extraídas del diario online MK365
 
-13/04/20
+13/04/30
 Un grupo de estudiantes de la universidad de Mércorin realizan importante hallazgo al descubrir nueva partícula subatómica utilizando el nuevo acelerador de partículas estatal de la institución.
 
 Afirman que en teoría sería posible transportar pequeñas cantidades de energía de forma instantánea a través del espacio, debido a un tipo de singularidad producida que aún están estudiando.
 
 ----
 
-21/10/20
+21/10/30
 El departamento de física de Mércorin tiene el privilegio de contar con las mentes más brillantes de esta década. La continua investigación ha dado frutos, y en el día de ayer, en un experimento realizado en una cámara aislada, se consiguió transportar instantáneamente una moneda a una distancia de casi dos metros. Hoy a la noche presentan conferencia en el auditorio universitario, explicando cómo es posible transportar materia con cantidades mínimas de energía.
 
 ----
 
-07/05/21
+07/05/31
 Se ha realizado con éxito el transporte de un chimpancé a través de 43 Km. de distancia. Según los expertos, las estructuras neuronales no se vieron afectadas en absoluto. Ambientalistas critican el uso de animales para experimentación científica.
 
 ----
 
-25/02/23
+25/02/33
 Distribución masiva del nuevo sistema de transporte instantáneo por parte del estado, y empresas que compraron la licencia. Por cuestiones técnicas, se ha limitado el número de personas máximas dentro de una estas máquinas a cuatro. Críticos aseguran falta de pruebas suficientes y exigen mayores medidas de seguridad.
 
 El gasto de energía es mínimo y no produce contaminantes de ningún tipo. Se habla acerca del invento del siglo.
