@@ -4,7 +4,7 @@ title: Capítulo 1
 nav_order: 4
 ---
 
-<p style="text-align: center;"> # *Destinos alterados* </p>
+<p style="text-align: center;"> <h2> Destinos alterados </h2> </p>
 
 Desperté a las siete. Los rayos del «recién nacido» sol se difuminaban a través de las cortinas blancas. Resultaba curioso ver como los dibujos en la tela se proyectaban sobre el suelo, a modo de proyector natural.
 Me gusta el nuevo apartamento, hay más espacio y cada uno puede tener su habitación. Por cierto, vivo con un estudiante de ingeniería llamado Lucas Winston, o al menos así lo llamaremos en este relato. 
