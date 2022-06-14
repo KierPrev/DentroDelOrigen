@@ -8,7 +8,7 @@ nav_order: 5
 <h2 style="text-align: center;"> Forasteros en lo desconocido </h2> <br>
 
 
-Cerré los ojos por un instante y los volví a abrir. No, no estoy soñando; el aroma a lavanda entra a la cámara traído por la suave brisa del viento. El suelo está cubierto de estas florecidas plantas, como una alfombra púrpura.
+{: .fw-400 Cerré los ojos por un instante y los volví a abrir. No, no estoy soñando; el aroma a lavanda entra a la cámara traído por la suave brisa del viento. El suelo está cubierto de estas florecidas plantas, como una alfombra púrpura.
 
 ― ¿Así que esto es el cielo? ―expresó Andra con su fina y delicada voz.
 
@@ -108,4 +108,4 @@ El joven pelirrojo me hizo una pregunta.
 
 Habremos tardado unos cuarenta minutos en encontrarnos con el pueblo. Era pequeño, aunque tenía la apariencia de una ciudad. Una baja muralla de piedra rodeaba todo el lugar. Me preguntaba si mis compañeros ya tenían las mismas sospechas que yo había tenido hace una hora.
 
-Había algo en aquel poblado que me resultaba familiar, aunque no podría decir qué. Fue una especie de Déjà visité supongo. Mi mente me decía que algo no estaba bien en lo que estábamos por hacer. El subconsciente siempre está más atento que nosotros mismos.
+Había algo en aquel poblado que me resultaba familiar, aunque no podría decir qué. Fue una especie de Déjà visité supongo. Mi mente me decía que algo no estaba bien en lo que estábamos por hacer. El subconsciente siempre está más atento que nosotros mismos. }
