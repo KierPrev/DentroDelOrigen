@@ -44,7 +44,7 @@ Di una mirada a los costados y vi que estábamos completamente inmersos en un bo
 
 ―¡Precisamente! Vamos adentro a averiguarlo ―indiqué señalando exageradamente la voluminosa máquina.
 
-Entramos nuevamente y nos sentamos en las ubicaciones. En el tablero digital indicaba 11:27:04:23. Pulsé el botón de regreso a la última parada. Los números cambiaron a 20:23:04:23.
+Entramos nuevamente y nos sentamos en las ubicaciones. En el tablero digital indicaba 11:27:04:23. Pulsé el botón de regreso a la última parada. Los números cambiaron a 20:33:04:23.
 
 ―Mmm, interesante ―afirmó Luna agarrándose la barbilla―.
 
