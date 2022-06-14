@@ -9,7 +9,7 @@ nav_order: 4
 13/04/30
 Un grupo de estudiantes de la universidad de Mércorin realizan importante hallazgo al descubrir nueva partícula subatómica utilizando el nuevo acelerador de partículas estatal de la institución.
 
-![particula](/assets/images/particle.jpg)
+<img src="https://kierprev.github.io/assets/images/particle.jpg" > 
 
 Afirman que en teoría sería posible transportar pequeñas cantidades de energía de forma instantánea a través del espacio, debido a un tipo de singularidad producida que aún están estudiando.
 
