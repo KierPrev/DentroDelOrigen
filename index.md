@@ -27,4 +27,5 @@ Novela de ciencia-ficción escrita por Kiernan Preve
 ---
 
 Imágenes generadas mediante texto, por la inteligencia artificial Dall-E, de OpenAI.
+{: .fs-3 }
 
