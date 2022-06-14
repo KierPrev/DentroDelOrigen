@@ -21,10 +21,8 @@ Novela de ciencia-ficción escrita por Kiernan Preve
 
 [Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Colaborá conmigo (MercadoPago)](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Colaborá conmigo (MercadoPago)](https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c938084802a37ba01802bb17b2e0016){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[Colaborá conmigo (Cafecito)](https://cafecito.app/kiernan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ---
 
