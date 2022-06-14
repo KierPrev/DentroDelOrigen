@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Capítulo 1
-nav_order: 4
+title: Capítulo 2
+nav_order: 5
 ---
 
 <h1 style="text-align: center;"> <b> Capítulo 2 </b> </h1>

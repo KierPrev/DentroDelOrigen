@@ -98,3 +98,5 @@ Inicié el sistema. Se cerraron las puertas y un zumbido empezó a sentirse en a
 En ese instante se produjo el salto y todo volvió a la normalidad. El silencio perduró nuevamente dentro de aquel lugar. Nos sacamos los seguros y tomamos nuestras cosas. Lucas abrió las puertas oprimiendo el brillante botón azul en una de las paredes; y entonces se quedó rígido como una roca.
 
 Y es que afuera no estaba la ya conocida entrada de la universidad, con sus grandes ventanales de vidrio, sino que se extendía un frondoso bosque que cubría toda la visión.
+
+[Siguiente](/DentroDelOrigen/docs/4-capitulo2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
