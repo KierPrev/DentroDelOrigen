@@ -17,12 +17,9 @@ permalink: /
 
 ---
 
-
-{: .fs-6 .fw-300 }
 La vida de Ádam Levi transcure con aburrida normalidad en la universidad con sus amigos, hasta que un accidente los ve metidos en un inesperado suceso de eventos que pondrían el mundo de cabezas para cualquiera.
 {: .fs-6 .fw-300 }
 Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan regresar a la realidad misma a su curso normal.
-
 {: .fs-6 .fw-300 }
 
 ---
