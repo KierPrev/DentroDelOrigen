@@ -7,11 +7,7 @@ permalink: /
 ---
 
 
-Novela de ciencia-ficción escrita por Kiernan Preve
-
-[Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-[Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
 ---
