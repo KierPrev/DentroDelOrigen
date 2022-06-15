@@ -9,7 +9,7 @@ permalink: /
 [Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 
-<p align="center"> <img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.jpg" alt="Cover" style="max-width: 75%;"/> </p>
+<p align="center"> <img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.jpg" alt="Cover"/> </p>
 
 
 ---
