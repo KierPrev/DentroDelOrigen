@@ -6,16 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Dentro del Origen
-{: .fs-9 }
-
-La vida de Ádam Levi transcure con aburrida normalidad en la universidad con sus amigos, hasta que un accidente los ve metidos en un inesperado suceso de eventos que pondrían el mundo de cabezas para cualquiera.
-
-Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan regresar a la realidad misma a su curso normal.
-
-{: .fs-6 .fw-300 }
-
----
 
 Novela de ciencia-ficción escrita por Kiernan Preve
 
@@ -28,6 +18,16 @@ Novela de ciencia-ficción escrita por Kiernan Preve
 
 ![Cover](https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.gif)
 
+
+---
+
+{: .fs-9 }
+
+La vida de Ádam Levi transcure con aburrida normalidad en la universidad con sus amigos, hasta que un accidente los ve metidos en un inesperado suceso de eventos que pondrían el mundo de cabezas para cualquiera.
+
+Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan regresar a la realidad misma a su curso normal.
+
+{: .fs-6 .fw-300 }
 
 ---
 
