@@ -26,6 +26,11 @@ Novela de ciencia-ficción escrita por Kiernan Preve
 
 ---
 
+![Cover](https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.gif)
+
+
+---
+
 Imágenes generadas mediante texto, por la inteligencia artificial Dall-E, de OpenAI.
 {: .fs-3 }
 
