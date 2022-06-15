@@ -4,7 +4,7 @@ title: Notas MK365
 nav_order: 4
 ---
 
-# Notas extraídas del diario online MK365
+# Notas extraídas del portal de noticias MK365
 
 13/04/30
 Un grupo de estudiantes de la universidad de Mércorin realizan importante hallazgo al descubrir nueva partícula subatómica utilizando el nuevo acelerador de partículas estatal de la institución.
