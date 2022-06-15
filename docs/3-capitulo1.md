@@ -101,4 +101,4 @@ En ese instante se produjo el salto y todo volvió a la normalidad. El silencio 
 
 Y es que afuera no estaba la ya conocida entrada de la universidad, con sus grandes ventanales de vidrio, sino que se extendía un frondoso bosque que cubría toda la visión.
 
-[Siguiente](/DentroDelOrigen/docs/4-capitulo2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[► Siguiente capítulo](/DentroDelOrigen/docs/4-capitulo2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

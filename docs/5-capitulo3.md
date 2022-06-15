@@ -121,4 +121,4 @@ El instrumentista guardó su laúd en una oscura funda marrón y volvió a habla
 
 Y es así como aquel joven bardo de cabello escarlata comenzó a narrar el relato.
 
-[Siguiente](/DentroDelOrigen/docs/6-capitulo4){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[► Siguiente capítulo](/DentroDelOrigen/docs/6-capitulo4){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

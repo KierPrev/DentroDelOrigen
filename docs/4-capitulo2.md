@@ -110,4 +110,4 @@ Habremos tardado unos cuarenta minutos en encontrarnos con el pueblo. Era peque�
 
 Había algo en aquel poblado que me resultaba familiar, aunque no podría decir qué. Fue una especie de Déjà visité supongo. Mi mente me decía que algo no estaba bien en lo que estábamos por hacer. El subconsciente siempre está más atento que nosotros mismos.
 
-[Siguiente](/DentroDelOrigen/docs/5-capitulo3){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[► Siguiente capítulo](/DentroDelOrigen/docs/5-capitulo3){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

@@ -76,4 +76,4 @@ Ciertamente, el cuerpo del joven había desaparecido del lugar. Según cuenta la
 
 Pero como dicen por ahí ―dijo Vesto mirando de forma inclinada―, mejor dejar los misterios adonde pertenecen.
 
-[Siguiente](/DentroDelOrigen/docs/7-capitulo5){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[► Siguiente capítulo](/DentroDelOrigen/docs/7-capitulo5){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
