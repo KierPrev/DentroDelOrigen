@@ -12,6 +12,8 @@ permalink: /
 
 ---
 
+ <img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.gif" alt="Cover" style="max-width: 720px;> 
+
 ![Cover](https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.gif)
 
 
