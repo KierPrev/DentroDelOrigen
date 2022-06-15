@@ -6,11 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-[Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
-
 <p align="center"> <img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.jpg" alt="Cover"/> </p>
-
 
 ---
 
@@ -18,6 +14,10 @@ La vida de Ádam Levi transcure con aburrida normalidad en la universidad con su
 {: .fs-6 .fw-300 }
 Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan regresar a la realidad misma a su curso normal.
 {: .fs-6 .fw-300 }
+
+---
+
+[Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
