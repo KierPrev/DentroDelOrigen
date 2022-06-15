@@ -12,7 +12,7 @@ permalink: /
 
 ---
 
-<img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.gif" alt="Cover" style="max-width: 50%;"/> 
+<img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.jpg" alt="Cover" style="max-width: 50%;"/> 
 
 ![Cover](https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.gif)
 
