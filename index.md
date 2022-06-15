@@ -14,7 +14,7 @@ La vida de Ádam Levi transcure con aburrida normalidad en la universidad con su
 {: .fs-6 .fw-300 }
 
 La esencia misma de la realidad se verá cuestionada al volverse frágil la naturaleza de lo real.
-
+{: .fs-6 .fw-300 }
 Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan regresar el universo a su curso normal.
 {: .fs-6 .fw-300 }
 
