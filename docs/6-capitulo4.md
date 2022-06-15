@@ -75,3 +75,5 @@ A la mañana siguiente, el cuerpo de Dana comenzó a moverse, como si una capa i
 Ciertamente, el cuerpo del joven había desaparecido del lugar. Según cuenta la leyenda, fue absorbido por el viejo árbol, y su alma se encuentra dentro de este, en cada rama y lugar. Desde entonces, se conoce este ser vivo como el «Gran Árbol de la vida». Es un misterio por qué ellas pudieron sobrevivir esos días, y despertar completamente sanas después.
 
 Pero como dicen por ahí ―dijo Vesto mirando de forma inclinada―, mejor dejar los misterios adonde pertenecen.
+
+[Siguiente](/DentroDelOrigen/docs/7-capitulo5){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

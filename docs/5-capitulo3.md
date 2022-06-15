@@ -120,3 +120,5 @@ El instrumentista guardó su laúd en una oscura funda marrón y volvió a habla
 ―Siendo así, comienza cuando quieras ―anunció Shoppen a la vez que se tomaba una fuerte bebida alcohólica de un solo saque.
 
 Y es así como aquel joven bardo de cabello escarlata comenzó a narrar el relato.
+
+[Siguiente](/DentroDelOrigen/docs/6-capitulo4){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

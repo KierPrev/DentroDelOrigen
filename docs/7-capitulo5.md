@@ -136,3 +136,5 @@ Efectivamente, chispas de un color blanco puro comenzaron a salir de sus manos, 
 ―¡¿Qué está pasando?! ―gritó Lucas agarrándose la cabeza.
 
 Los rayos aumentaron la intensidad y el ruido era ensordecedor. Finalmente, tras unos segundos que parecieron minutos, la chica desapareció de golpe, con un último destello fugaz.
+
+[Siguiente](/DentroDelOrigen/docs/8-capitulo6){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
