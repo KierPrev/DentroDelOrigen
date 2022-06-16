@@ -25,7 +25,7 @@ Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan
 ---
 
 Tapa del libro, y sitio web realizados por mi autoría.
-
+{: .fs-3 }
 Imágenes generadas mediante texto, por la inteligencia artificial Dall-E, de OpenAI.
 {: .fs-3 }
 
