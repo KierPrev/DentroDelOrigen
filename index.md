@@ -10,6 +10,10 @@ permalink: /
 
 ---
 
+En este momento, el libro está siendo editado por la editorial <a href="https://tintalibre.com.ar/">Tinta Libre</a>, de la ciudad de Córdoba.
+
+---
+
 La vida de Ádam Levi transcure con aburrida normalidad en la universidad con sus amigos, hasta que un accidente los ve metidos en un inesperado suceso de eventos que pondrían el mundo de cabezas para cualquiera.
 {: .fs-6 .fw-300 }
 
@@ -20,7 +24,7 @@ Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan
 
 ---
 
-[Iniciar lectura](/docs/1-inicio.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
