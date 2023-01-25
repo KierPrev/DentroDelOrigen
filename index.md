@@ -24,14 +24,4 @@ Ayudados por el intelecto, y en una batalla con sus sentimientos, tal vez puedan
 
 ---
 
-[Colaborá conmigo 🧡](colabora){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
----
-
-Tapa del libro, y sitio web realizados por mi autoría.
-{: .fs-3 }
-El diseño geométrico de la tapa, lo programé en FreeFem++, software que permite generar [redes de mallas](https://doc.freefem.org/documentation/mesh-generation.html) topolópicas.
-{: .fs-3 }
-Las ilustraciones de la historia las generé mediante texto, usando la inteligencia artificial Dall-E, de OpenAI.
-{: .fs-3 }
 
