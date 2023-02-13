@@ -12,7 +12,5 @@ permalink: /
 
 Durante el mes de Febrero del 2023, el libro está siendo editado por la editorial <a href="https://tintalibre.com.ar/">Tinta Libre</a>, de la ciudad de Córdoba.
 
-<p align="right"> <img src="./assets/images/tintalibre.png" alt="Tinta Libre Ediciones" style="width:100px;height:auto"/> </p>
-
----
+<p align="center"> <img src="./assets/images/tintalibre.png" alt="Tinta Libre Ediciones" style="width:100px;height:auto"/> </p>
 
