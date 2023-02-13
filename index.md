@@ -6,7 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-<p align="center"> <img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.jpg" alt="Cover" width="400"> </p>
+<p align="center"> <img src="https://kierprev.github.io/DentroDelOrigen/assets/images/Cover-web.jpg" alt="Cover" width="400"/> </p>
 
 ---
 
