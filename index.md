@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Prólogo
+title: Inicio
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
@@ -10,7 +10,7 @@ permalink: /
 
 ---
 
-En este momento, el libro está siendo editado por la editorial <a href="https://tintalibre.com.ar/">Tinta Libre</a>, de la ciudad de Córdoba.
+Durante el mes de Febrero del 2023, el libro está siendo editado por la editorial <a href="https://tintalibre.com.ar/">Tinta Libre</a>, de la ciudad de Córdoba.
 
 ---
 
